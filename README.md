@@ -3,4 +3,4 @@ This game can download from <a href="https://play.google.com/store/apps/details?
 I created this game for kids. This is a coloring book.
 
 This is some images from Wonder Painter
-<img src="img/1.jpg" width="100" height="200"/>
+<img src="img/1.jpg" width="200" height="400"/>
